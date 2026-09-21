@@ -837,6 +837,11 @@ button {
   height: 80px;
 }
 
+.footer-logo img {
+  /* Make the pale JPEG paper white so multiply blends it into the footer. */
+  filter: contrast(1.35);
+}
+
 .site-footer nav {
   display: flex;
 
@@ -1137,6 +1142,10 @@ button {
       0
       20px
       28px;
+  }
+
+  .footer-logo {
+    justify-self: center;
   }
 
 }
