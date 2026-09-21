@@ -1,0 +1,23 @@
+YASMIM BATISTA — BEAUTY STUDIO
+
+Versão criada a partir da direção visual aprovada.
+
+Arquivos:
+- index.html
+- style.css
+- script.js
+- images/
+
+Principais decisões:
+- Tipografia somente sem serifa.
+- Visual clean, claro e elegante.
+- Logo com tratamento em card suave.
+- Hero com transição/gradiente entre texto e fotografia.
+- Poucos elementos decorativos.
+- Fotos reais fornecidas no material da cliente.
+- Seção de modelos de cílios deixada sem imagens, com indicação para inserir as fotos enviadas pela cliente.
+- Seção Sobre com texto provisório para receber a história real da profissional.
+- Layout responsivo para desktop, tablet e celular.
+
+IMPORTANTE:
+Troque todas as ocorrências de 55NUMERO pelo WhatsApp real antes de publicar.
