@@ -990,6 +990,7 @@ button {
 
   .site-header {
     height: 76px;
+    gap: 16px;
 
     padding:
       0
@@ -998,7 +999,20 @@ button {
 
   .logo-card {
     width: 150px;
-    height: 70px;
+    max-width: calc(100% - 58px);
+    height: auto;
+    min-width: 0;
+  }
+
+  .logo-card img,
+  .footer-logo img {
+    height: auto;
+    max-height: 64px;
+    object-fit: contain;
+  }
+
+  .menu-button {
+    flex-shrink: 0;
   }
 
   .site-nav {
@@ -1135,6 +1149,8 @@ button {
 
   .footer-logo {
     justify-self: center;
+    max-width: 100%;
+    height: auto;
   }
 
 }
